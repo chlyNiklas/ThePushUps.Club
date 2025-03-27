@@ -1,9 +1,9 @@
 # ThePushUps.Club
 
 ## Rules
-- Any member of the club may command any other member to do 20 push-ups — anytime, anywhere. Push-up requests are cumulative and must be completed in full.
+- Anytime, anywhere, any member of the club may assign 20 push-ups to another member. Requests from different members are cumulative.
 - You have 60 seconds to find a suitable spot, get on the ground, and start. You may not rise until the task is complete.
-- If a member assigns push-ups to another member, neither of them may assign push-ups to the other for one hour. However, both may assign push-ups to others.
+- Once a member assigned another, neither of them may assign to the other for one hour. Requests from/to others are allowed.
 
 ## Ten Principles
 ### Benevolence & Kindness (no vengeance)
