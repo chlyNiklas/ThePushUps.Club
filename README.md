@@ -6,7 +6,7 @@
 - Once a member assigned another, neither of them may assign to the other for one hour. Requests from/to others are allowed.
 
 ## Ten Principles
-### Benevolence & Kindness (no vengeance)
+### Benevolence & Kindness
 The aim of the club is to propagate happiness, health, and fun. Push-ups should never be used to humiliate, degrade or retaliate. Giving push-ups should be done in a benevolent manner, meaning it should not be done to make fun of someone, but to have fun with them.
 
 ### Immediacy
