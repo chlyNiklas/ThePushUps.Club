@@ -22,7 +22,8 @@ Be mindful of other people's feelings. If it does not feel right, then it isn't.
 
 ### Promote Health
 
-20 push-ups is just a suggestion. A different number of push-ups or equivalent exercises (e.g., pull-ups, squats, crunches, planks, etc.) are welcome — if you're brave enough to create a comparison table, submit a pull request. The founders admit to lacking the required nerdiness and/or motivation.
+20 push-ups is just a suggestion. A different number of push-ups or equivalent exercises (e.g., pull-ups, squats, crunches, planks, etc.) are welcome — if you're brave enough to extend the comparison table, submit a pull request.
+The founders admit to lack in the required nerdiness and/or motivation, in contrast to some nerdier contributors.
 
 |  exercise  |   duration / repetitions [^1] |
 | ---------- | ----------------------------- |
